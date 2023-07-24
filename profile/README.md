@@ -4,7 +4,7 @@
 
 An experience-led company specialising in the technical aspects of evidence-based medicine and health technology assessment. 
 
-(deltahat.com)
+[deltahat.com](deltahat.com)
 
 This organisation is where we store our code repositories. We create one respository per project and primarily code in R. 
 
