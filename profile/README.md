@@ -2,6 +2,12 @@
 
 ## About 
 
+An experience-led company specialising in the technical aspects of evidence-based medicine and health technology assessment. 
+
+deltahat.com 
+
+This organisation is where we store our code repositories. We create one respository per project and primarily code in R. 
+
 ## Rules / good practice 
 
 - "Pull" before starting work - people not pulling before they work can cause merge conflicts within a single branch.
