@@ -1,1 +1,1 @@
-# .github
+# Delta Hat GitHub Organisation
