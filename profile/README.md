@@ -4,12 +4,12 @@
 
 ## Rules / good practice 
 
-people not pulling before they work and causing massive merge conflicts within a single branch
-people just working within a branch I just asked them not to work within and pushing changes without telling me
-people continuing to work within branches that were deleted following a merging of a pull request
-people making a branch from the wrong branch and then asking me why the code isn't "up to date", so I then have to do a manual merge or delete their new branch and make it for them by branching form the correct branch
-people just deciding to build massive loads of code without making a new branch to do that in
-base for loops that are super slow and hard to read...so, so many of those
+- people not pulling before they work and causing massive merge conflicts within a single branch
+- people just working within a branch I just asked them not to work within and pushing changes without telling me
+- people continuing to work within branches that were deleted following a merging of a pull request
+- people making a branch from the wrong branch and then asking me why the code isn't "up to date", so I then have to do a manual merge or delete their new branch and make it for them by branching form the correct branch
+- people just deciding to build massive loads of code without making a new branch to do that in
+- base for loops that are super slow and hard to read...so, so many of those
 
 <!--
 
