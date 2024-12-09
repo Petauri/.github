@@ -15,6 +15,21 @@ This organisation is where we store our code repositories. We create one resposi
 - Using branches correctly - people continuing to work within branches that were deleted following a merging of a pull request can cause issues.
 - Making new branches - always double check that you are branching from the correct (and most up to date version of the) branch
 
+## Example code
+
+We encourage everyone to collaborate, share and recycle code where possible. It is rare that you will start a project using a method or approach that no one else has done before. Some examples of projects that have example code for certain methods/approaches is included below. Related to this, the same goes for generating figures/tables. The likelihood is that someone has code to generate a figure similar to what you might be looking to do. Instead of an exhaustive list below, try using the search function within this Delta-Hat-R GitHub organisation at the top of the page. If you need code to generate a forest plot, try seaarching "forest" in the search bar and have a look through the code. 
+
+- Survival analysis
+- Fitting Partitioned Survival Models to survival (including digitised) data
+- MAIC
+- STC
+- Propensity score analyses
+- NMA
+- ML-NMR
+- Analysis of utility (EQ-5D) data
+- Simulation studies
+- Q-TWiST analysis
+- 
 <!--
 
 **Here are some ideas to get you started:**
