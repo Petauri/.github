@@ -19,7 +19,7 @@ This organisation is where we store our code repositories. We create one resposi
 
 We encourage everyone to collaborate, share and recycle code where possible. It is rare that you will start a project using a method or approach that no one else has done before. Some examples of projects that have example code for certain methods/approaches is included below. Related to this, the same goes for generating figures/tables. The likelihood is that someone has code to generate a figure similar to what you might be looking to do. Instead of an exhaustive list below, try using the search function within this Delta-Hat-R GitHub organisation at the top of the page. If you need code to generate a forest plot, try seaarching "forest" in the search bar and have a look through the code. 
 
-- Survival analysis - 1336-Jazz[https://github.com/Delta-Hat-R/1336-Jazz]
+- Survival analysis - (1336-Jazz)[https://github.com/Delta-Hat-R/1336-Jazz]
 - Fitting Partitioned Survival Models to survival (including digitised) data
 - MAIC
 - STC
