@@ -1,10 +1,8 @@
-# Delta Hat GitHub Orgainisation
+# Petauri GitHub Orgainisation
 
 ## About 
 
-An experience-led company specialising in the technical aspects of evidence-based medicine and health technology assessment. 
-
-[deltahat.com](www.deltahat.com)
+[petauri.com](www.petauri.com)
 
 <!--
 
